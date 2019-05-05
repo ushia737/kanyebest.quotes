@@ -110,5 +110,17 @@ img {
   z-index: 1;
 }
 
+@media only screen and (max-width: 768px) {
+  section {
+    font-size: 20pt;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  section {
+    font-size: 25px;
+  }
+}
+
 
 
