@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 get();
 function get() {
     var url = 'https://api.kanye.rest'
@@ -49,3 +51,5 @@ var audio = $("#kanyehuh")[0];
 $("#refresh").mouseenter(function() {
   audio.play();
 });
+
+})
