@@ -1,5 +1,5 @@
 html {
-  cursor: url('../img/kanyesmall3.png'), auto;
+  cursor: url('../img/kanyesmall4.png'), auto;
 }
 body {
   color: #fff;
@@ -82,23 +82,23 @@ span {
   color: white;
   padding: 10px 14px;
   display: inline-block;
-  cursor: url('../img/kanyesmall3.png'), auto;
+  cursor: url('../img/kanyesmall4.png'), auto;
   border-radius: 25px;
 }
 
 a#refresh:link {color: #fff; text-decoration: none;}
 a#refresh:visited {color: #fff; text-decoration: none;}
-a#refresh:hover {color: #F6BC4F; cursor: url('../img/kanyesmall3.png'), auto;}
+a#refresh:hover {color: #F6BC4F; cursor: url('../img/kanyesmall4.png'), auto;}
 a#refresh:active {color: #fff;}
 
 a#rest:link {color: #fff;}
 a#rest:visited {color: #fff;}
-a#rest:hover {color: #F6BC4F; cursor: url('../img/kanyesmall3.png'), auto;}
+a#rest:hover {color: #F6BC4F; cursor: url('../img/kanyesmall4.png'), auto;}
 a#rest:active {color: #fff;}
 
 a#twitter:link {color: #fff; text-decoration: none;}
 a#twitter:visited {color: #fff; text-decoration: none;}
-a#twitter:hover {color: rgb(168, 168, 168); cursor: url('../img/kanyesmall3.png'), auto;}
+a#twitter:hover {color: rgb(168, 168, 168); cursor: url('../img/kanyesmall4.png'), auto;}
 a#twitter:active {color: #fff;}
 
 img {
