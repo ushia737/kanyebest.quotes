@@ -21,7 +21,7 @@ h1 {
 }
 
 h5 {
-  font-family: 'bodoni', serif;
+  font-family: 'bodoni MT', 'times new roman', serif;
   position: relative;
   font-style: italic;
   font-weight: inherit;
@@ -40,7 +40,7 @@ section {
 }
 
 span {
-  font-family: 'bodoni', serif;
+  font-family: 'bodoni MT', 'times new roman', serif;
 }
 
 #refresh {
